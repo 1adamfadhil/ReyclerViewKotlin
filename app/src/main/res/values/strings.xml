@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReyclerViewKotlin</string>
+    <string name="Superhero_name">Superhero</string>
+    <string name="description">description</string>
+    <string name="Description">Description</string>
+</resources>
